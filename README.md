@@ -1,3 +1,3 @@
-# simple-blog
-================
-A simple blog application built using Django.
+# Simple-Blog
+
+A basic blog application built using Django.
